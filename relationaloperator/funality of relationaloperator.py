@@ -1,0 +1,10 @@
+#funality of relational operator
+a=float(input("enter the val of a:"))
+b=float(input("enter the val of b:"))
+print("*"*50)
+print("greater than symbol ({}>{}) ={}".format(a,b,a>b))
+print("less than symbol ({}<{}) ={}".format(a,b,a<b))
+print("Equality symbol ({}=={}) ={}".format(a,b,a==b))
+print("NotEquality symbol ({}!={}) ={}".format(a,b,a!=b))
+print("greater than or Equal to symbol ({}>={}) ={}".format(a,b,a>=b))
+print("less than or Equal symbol ({}<={}) ={}".format(a,b,a<=b))

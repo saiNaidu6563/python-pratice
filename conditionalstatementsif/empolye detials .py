@@ -1,0 +1,36 @@
+#program for empolyee details ands its salary
+empno=int(input("enter the empolye number:"))
+empname=input("enter the empolye name:")
+basicsal=float(input("enter the basic salary:"))
+if basicsal<=0:
+    print("{} invalid salary ".format(basicsal))
+if basicsal >= 10000:
+    da=basicsal*(20/100)
+    ta=basicsal*(10/100)
+    hra=basicsal*(7/100)
+    cca=basicsal*(0.5/100)
+    ma=basicsal*(0.25/100)
+    lic=basicsal*(2/100)
+    gpf=basicsal*(1/100)
+if basicsal < 10000 :
+    da = basicsal * (15 / 100)
+    ta = basicsal * (7.5 / 100)
+    hra = basicsal * (5 / 100)
+    cca = basicsal * (0.25 / 100)
+    ma = basicsal * (0.12 / 100)
+    lic = basicsal * (1.5/ 100)
+    gpf = basicsal * (1 / 100)
+if basicsal>0:
+    netsal = (basicsal + da + ta + hra + cca + ma) - (lic + gpf)
+    print("*"*50)
+    print("\t employe pay slip")
+    print("\t{}Netsal".format(netsal))
+    print("\t{}Da".format(da))
+    print("\t{}Ta".format(ta))
+    print("\t{}HRa".format(hra))
+    print("\t{}cca".format(cca))
+    print("\t{}Ma".format(ma))
+    print("\t{}LIC".format(lic))
+    print("\t{}GPF".format(gpf))
+    print("*"*50)
+

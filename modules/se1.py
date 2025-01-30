@@ -1,0 +1,2 @@
+import simplein
+simplein.simpleint()

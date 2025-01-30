@@ -1,0 +1,9 @@
+P=float(input("enter the val of p:"))
+T=float(input("enter the time t:"))
+R=float(input("enter the rate of interest r:"))
+si = P*T*R/100
+TP=P+si
+print(f"val of P={P}")
+print("val of T={}".format(T))
+print("simple interest si={}".format(si))
+print("total payment TP={}".format(TP))

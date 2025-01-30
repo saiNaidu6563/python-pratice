@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec6360b9-5fa7-4083-aa94-b21b68b10cdd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/csvfiles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csvdynamicexp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csvdynamicsexp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csvreadexp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csvreadexp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csvreadexp3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csvreadexp4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csvwriteexp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csvwriteexp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csvwriteexp4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictdataintoJsonfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictdataintojsondata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filewrite3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsondataintoDictdata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonfiledataintodictdata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/os floderlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/osdeletefloder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/osdeletehierarchyfloder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/osflodercreate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oshierarchyfloder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/osremovefilename.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/osrename.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readdynamic.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2sD6sGGz17xy4JHNbDvvU2K67Cp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.csvdynamicexp1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csvdynamicsexp2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csvreadexp1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csvreadexp2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csvreadexp3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csvreadexp4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csvwriteexp1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csvwriteexp2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csvwriteexp4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.datafiledataintoJsondata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictdataintoJsonfile (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictdataintojsondata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file name.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filewrite3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.floder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jsondataintoDictdata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jsonfiledataintodictdata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.os floderlist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.osdeletefloder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.osdeletehierarchyfloder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.osflodercreate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oshierarchyfloder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.osremovefilename.executor&quot;: &quot;Run&quot;,
+    &quot;Python.osrename.executor&quot;: &quot;Run&quot;,
+    &quot;Python.readdynamic.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.os floderlist">
+    <configuration name="file name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="csvfiles" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/os rename floder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/os rename floder/file name.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="floder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="csvfiles" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/osrenamefile" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/osrenamefile/floder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="os floderlist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="csvfiles" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/os floderlist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="osflodercreate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="csvfiles" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/osflodercreate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="osrename" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="csvfiles" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/osrename.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.os floderlist" />
+        <item itemvalue="Python.osrename" />
+        <item itemvalue="Python.floder" />
+        <item itemvalue="Python.file name" />
+        <item itemvalue="Python.osflodercreate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec6360b9-5fa7-4083-aa94-b21b68b10cdd" name="Changes" comment="" />
+      <created>1737978003119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737978003119</updated>
+    </task>
+    <servers />
+  </component>
+</project>
